@@ -28,7 +28,7 @@
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=git,github,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,vscode)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankaj086&show_icons=true&locale=en&layout=compact" alt="pankaj086" /></p>
 
